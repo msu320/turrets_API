@@ -1,0 +1,1 @@
+require("prototypes.auto_car_turret")

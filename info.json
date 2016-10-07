@@ -1,0 +1,11 @@
+{
+"name": "turrets_API",
+  "version": "0.0.2",
+  "title": "Basic Turrets API",
+  "author": "CmdrKeen",
+  "contact": "",
+  "homepage": "",
+  "description": "Basic API functionality to allow entities to be attached to others via the entity.teleport function",
+  "factorio_version": "0.14.0",
+  "dependencies": ["base >= 0.14.0"]
+}

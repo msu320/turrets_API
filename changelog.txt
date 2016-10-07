@@ -1,0 +1,8 @@
+- turrets_api 0.0.1
+ -initial commit
+  -api design
+  -basic test
+ 
+- turrets_api 0.0.2
+ - implement rectangular and polar translate options.
+ - both translations can be active- rectangular can help make it appear that an object is on top of the base structure, while the polar translation allows the object to be offcenter with respect to the primary objects rotation.
